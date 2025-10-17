@@ -1,4 +1,4 @@
-# Projeto ControlePonto - Exercício de Herança e Polimorfismo
+# Projeto ControlePonto - Exercício de Herança e Polimorfismo para a Matéria de POO - Professor Maromo. ADS Fatec Mogi Mirim.
 
 ## Descrição
 
